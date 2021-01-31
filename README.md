@@ -7,3 +7,4 @@ master上的修改
 testing 修改
 GitHub上的修改
 领先远程分支
+变基准备
